@@ -130,6 +130,7 @@ en:
     _form:
       username: "Username"
       email: "Email"
+      email_notification: "Email_Notifications"
       create_password: "Create a password"
       change_password: "Change your password"
       password: "password"
@@ -1409,3 +1410,7 @@ en:
       long: "%B %d, %Y %H:%M"
       short: "%d %b %H:%M"
     pm: pm
+  admin:
+    spam: 
+      moderate_potential_spam: "Moderate potential spam"
+   
